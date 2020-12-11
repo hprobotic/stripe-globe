@@ -2,4 +2,4 @@
 Stripe globe replicate
 
 # Demo
-![](https://github.com/hprobotic/stripe-globe/blob/master/demo.png)
+![](https://raw.githubusercontent.com/hprobotic/stripe-globe/main/assets/demo.png)
